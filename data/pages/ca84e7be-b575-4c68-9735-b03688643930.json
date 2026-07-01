@@ -1,13 +1,44 @@
 {
-  "content": [],
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "event",
+      "uuid": "5a40d59a-55aa-4be8-a769-913853a70ccd",
+      "includes": [
+        "media",
+        "annotations",
+        "description"
+      ],
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
   "created_at": "2026-07-01T05:08:12.884Z",
   "created_by": "sbg954-ux",
   "title": "Anime & Chauvinism",
   "slug": "anime-and-chauvinism",
-  "updated_at": "2026-07-01T05:08:12.884Z",
+  "updated_at": "2026-07-01T05:10:50.357Z",
   "updated_by": "sbg954-ux",
   "autogenerate": {
-    "enabled": true,
+    "enabled": false,
     "type": "event",
     "type_id": "5a40d59a-55aa-4be8-a769-913853a70ccd"
   }
