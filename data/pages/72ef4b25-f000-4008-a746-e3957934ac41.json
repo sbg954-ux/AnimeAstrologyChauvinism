@@ -1,12 +1,21 @@
 {
-  "content": [],
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
   "created_at": "2026-07-01T04:57:34.545Z",
   "created_by": "sbg954-ux",
   "title": "Anime, Astrology, & Chauvinism",
-  "updated_at": "2026-07-01T04:57:34.545Z",
+  "updated_at": "2026-07-01T05:09:21.390Z",
   "updated_by": "sbg954-ux",
   "autogenerate": {
-    "enabled": true,
+    "enabled": false,
     "type": "home"
   }
 }
