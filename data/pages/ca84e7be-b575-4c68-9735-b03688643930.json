@@ -35,11 +35,12 @@
   "created_by": "sbg954-ux",
   "title": "Anime & Chauvinism",
   "slug": "anime-and-chauvinism",
-  "updated_at": "2026-07-01T05:10:59.253Z",
+  "updated_at": "2026-07-01T05:11:08.998Z",
   "updated_by": "sbg954-ux",
   "autogenerate": {
     "enabled": false,
     "type": "event",
     "type_id": "5a40d59a-55aa-4be8-a769-913853a70ccd"
-  }
+  },
+  "parent": "72ef4b25-f000-4008-a746-e3957934ac41"
 }
