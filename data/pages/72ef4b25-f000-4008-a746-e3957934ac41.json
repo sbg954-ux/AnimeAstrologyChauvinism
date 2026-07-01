@@ -4,7 +4,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": ""
+          "text": "This project will utilize two different modalities to communicate this analysis: video format, text, images, and music. Anime centered content can be seen on various different social media platforms such as Youtube and Tiktok. Anime centered content is shown on users algorithms that are unique to the viewer profile.  Users on these platforms are more likely to engage with content that entertains and stimulates. In addition to the assertion that all four modalities will keep my audience engaged, but to garner better reach in SEO & retention.  The algorithm that determines the videos shown favors and tends to show heavily viewed content. I’d use the four differing modalities to optimize the algorithm. "
         }
       ]
     }
@@ -12,10 +12,11 @@
   "created_at": "2026-07-01T04:57:34.545Z",
   "created_by": "sbg954-ux",
   "title": "Anime, Astrology, & Chauvinism",
-  "updated_at": "2026-07-01T05:09:21.390Z",
+  "updated_at": "2026-07-01T05:10:37.854Z",
   "updated_by": "sbg954-ux",
   "autogenerate": {
     "enabled": false,
     "type": "home"
-  }
+  },
+  "parent": "ca84e7be-b575-4c68-9735-b03688643930"
 }
